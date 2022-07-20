@@ -11,7 +11,6 @@ Useful links:
 [Сервис иконок](https://www.flaticon.com)  
 
 Free videos in Russian can be viewed at the following link:  
-[Верстка сайта с нуля в Figma 10 видео](https://www.youtube.com/watch?v=OkNfBnq_c7c&list=PL5_s7xdj2Vsw-bCx5nOZJMFIiHwRgok--)  
+[Верстка сайта с нуля в Figma (10 видео)](https://www.youtube.com/watch?v=OkNfBnq_c7c&list=PL5_s7xdj2Vsw-bCx5nOZJMFIiHwRgok--)  
 
-
-
+**Thanks to the YouTube channel Step to Web for the free education**  
