@@ -13,4 +13,6 @@ Useful links:
 Free videos in Russian can be viewed at the following link:  
 [Верстка сайта с нуля в Figma (10 видео)](https://www.youtube.com/watch?v=OkNfBnq_c7c&list=PL5_s7xdj2Vsw-bCx5nOZJMFIiHwRgok--)  
 
+[The result of the training layout]((https://pereguda.github.io/studying-travel-landing-page/))
+
 **Thanks to the YouTube channel Step to Web for the free education**  
